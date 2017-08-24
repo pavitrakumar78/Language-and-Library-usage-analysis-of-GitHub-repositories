@@ -45,7 +45,7 @@ plot_stats(stats,top_x)
 ```
 ### Output:  
 
-<img src="https://github.com/pavitrakumar78Language-and-Library-usage-analysis-of-GitHub-repositories/blob/master/sample2.png" />  
+<img src="https://github.com/pavitrakumar78/Language-and-Library-usage-analysis-of-GitHub-repositories/blob/master/sample2.png" />  
 
 ## Dependencies:
 Python 3.5  
